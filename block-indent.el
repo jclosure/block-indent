@@ -1,4 +1,4 @@
-;;; block-indent --- Indent/de-indent whole blocks under control with no magic
+;;; block-indent.el --- Indent/de-indent whole blocks under control with no magic
 ;;; Commentary:
 ;; Indent single line and regions as blocks from left margin.  Allows tab stop
 ;; indentation to manage whitespace between left margin from anywhere in a
